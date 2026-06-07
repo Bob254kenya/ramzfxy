@@ -180,7 +180,7 @@ export const DOMAIN_CONFIG: Record<string, DomainConfig> = {
     // ── Primary production domain ────────────────────────────────────────────
     // New OAuth app registered redirect: https://riskmanagers.site/ (trailing slash)
     ...createHostedDomainEntries({
-        primaryDomain: 'riskmanagers.site',
+        primaryDomain: 'ramzfxy.vercel.app',
         aliases: ['www.ramzfxy.vercel.app'],
         clientId: '33sEw8wCxqfzfQqOlk7O6',
         appId: '133717',
@@ -192,7 +192,7 @@ export const DOMAIN_CONFIG: Record<string, DomainConfig> = {
             comboTrades: true,
         },
         ui: {
-            brandName: 'Risk Managers',
+            brandName: 'Ramzfxy',
         },
     }),
 };
