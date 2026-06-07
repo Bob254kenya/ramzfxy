@@ -1,11 +1,11 @@
 {
-    "brand_name": "Duke Trading Academy",
-    "brand_domain": "riskmanagers.site",
+    "brand_name": "Ramzfxy Fx",
+    "brand_domain": "ramzfxy.vercel.app",
     "brand_hostname": {
-        "staging": "riskmanagers.site",
-        "production": "riskmanagers.site"
+        "staging": "ramzfxy.vercel.app",
+        "production": "ramzfxy.vercel.app"
     },
-    "domain_name": "riskmanagers.site",
+    "domain_name": "ramzfxy.vercel.app",
     "colors": {
         "primary": "#3b82f6",
         "secondary": "#64748b",
@@ -73,10 +73,10 @@
         },
         "hostname": {
             "production": {
-                "com": "riskmanagers.site"
+                "com": "ramzfxy.vercel.app"
             },
             "staging": {
-                "com": "riskmanagers.site"
+                "com": "ramzfxy.vercel.app"
             }
         },
         "auth2_url": {
